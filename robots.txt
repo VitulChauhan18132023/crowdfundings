@@ -1,0 +1,5 @@
+User-agent: *
+
+Allow: https://www.planetway.io/sitemap.xml
+
+# End robots.txt file

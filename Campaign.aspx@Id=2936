@@ -1,0 +1,648 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta charset="utf-8" /><link href="css/progressbar.css" rel="stylesheet" /><meta name="robots" content="index, follow" /><link rel="canonical" href="https://www.planetway.io/" /><link rel="alternate" href="https://www.planetway.io/" hreflang="en-gb" /><meta name="description" content="Planetway is an Ethereum based Fundraising Platform, it’s a method of raising capital through the collective effort of friends, family,anonymous individual, without any entry fee." /><meta name="keywords" content="Planetway,planetway.io,planetway.in,Crowdfunding,crypto crowdfunding platforms,need fund for operation,want money for hospital,Etherme,Kitto,Fundraising,forsage,ethershare,etherstore,tronchain,tron foundation,crowdfunding plan,Peer to Peer Crowdfunding,Helping Plan,Ethereum based crowdfunding 
+platform,Blockchain based crowdfunding,Helping MLM Plan,Crowdfunding in India,Milap,Crowdfunding in USA,Bitcoin donation,Ethereum Donation,Helping plan,P2P crowdfunding,bitcoin crowdfunding,
+blockchain crowdfunding platform,wefunder,earn online,make money online,work from home,ico crowdfunding platform,crypto equity crowdfunding,crowdfunding website,crowdfunding wiki,crowdfunding India,smart contract crowdfunding." /><meta http-equiv="x-ua-compatible" content="ie=edge" /><meta name="viewport" content="width=device-width, initial-scale=1" /><meta name="google-site-verification" content="dy3RXp9SFMnrI54SNPRViC0es84DQ3s5fbAHmXhCbCI" /><meta name="Planetway Fundraising Platform!" content="Planetway, Fundraising Platform!" />
+
+<title>
+	Planetway - #Crowdfunding Projects & Charity Platform
+</title>
+
+<link rel="shortcut icon" href="assets/images/favicon.ico" type="image/png" />
+
+<link rel="stylesheet" href="assets/css/bootstrap.min.css" />
+
+<link rel="stylesheet" href="assets/css/flaticon.css" />
+
+<link rel="stylesheet" href="assets/css/odometer.min.css" />
+
+<link rel="stylesheet" href="assets/css/magnific-popup.css" />
+
+<link rel="stylesheet" href="assets/css/font-awesome.min.css" />
+
+<link rel="stylesheet" href="assets/css/animate.min.css" />
+
+<link rel="stylesheet" href="assets/css/slick.css" />
+
+<link rel="stylesheet" href="assets/css/default.css" />
+
+<link rel="stylesheet" href="assets/css/style.css" />
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-85368933-2"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
+
+    gtag('config', 'UA-85368933-2');
+</script>
+<style>
+       .cover {object-fit: cover;}
+   </style>
+<script async src='/cdn-cgi/challenge-platform/h/b/scripts/invisible.js?cb=6edec9235a33775b'></script></head>
+<body>
+<form method="post" action="./Campaign.aspx?Id=2936" id="form1">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTE0Mjk1ODMxOTMPFgQeCVJlZmZfQ29kZQUIUFc1NTAxMDkeE1ZhbGlkYXRlUmVxdWVzdE1vZGUCARYCZg9kFgICAw9kFgICAQ9kFgICAQ9kFhRmDw8WAh4ISW1hZ2VVcmwFIn4vVXNlci9jYW1wYWlnbl9pbWFnZS9QVzU1MDEwOS5qcGdkZAIBDxYCHglpbm5lcmh0bWwFD0hlYWx0aC9Ib3NwaXRhbGQCAg8WAh8DBQVJbmRpYWQCAw8WAh8DBRRNZW1iZXJzIGluIGhvc3BpdGFsIGQCBA8WAh8DBQYwLjAwMDBkAgUPFgIfAwUBMGQCBg8WAh8DBQI2NmQCBw8WAh8DBQEwZAIIDxYCHwMFBTUwLjAwZAIJDxYCHwMFATBkZHFZVE8yJZDTfI2kcvoHH/qlaNPQ" />
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="68A1955C" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAYLORdZCrB1NPqCoUS79BeaVes4AfNrEwZQ25wFmngHn1f1tIAwDpA/p3iQAE0sdDvSMlwn+Oi74gk3aw6euMldpUmaliO/OxLpl6rMqqGgorIEJljqzbS3sV5emJ7fjjTEG3rc9Aoj0EJZprBetDQiTAAj8w==" />
+
+<div class="off_canvars_overlay">
+</div>
+<div class="offcanvas_menu">
+<div class="container-fluid">
+<div class="row">
+<div class="col-12">
+<div class="offcanvas_menu_wrapper">
+<div class="canvas_close">
+<a href="javascript:void(0)"><i class="fa fa-times"></i></a>
+</div>
+<div class="offcanvas-social">
+<ul class="text-center">
+<li><a href="https://www.facebook.com/Planetway-112254153865584" target=_blank><i class="fa fa-facebook-square"></i></a></li>
+<li><a href="https://twitter.com/Planetwayin" target=_blank><i class="fa fa-twitter"></i></a></li>
+<li><a href="https://www.youtube.com/channel/UCMrdibmQe_aUHm6kdRvX8NQ/" target=_blank><i class="fa fa-youtube"></i></a></li>
+<li><a href="https://www.linkedin.com/company/planetwayin/?viewAsMember=true" target=_blank><i class="fa fa-linkedin"></i></a></li>
+</ul>
+</div>
+<div id="menu" class="text-left ">
+<ul class="offcanvas_main_menu">
+<li class="menu-item-has-children active">
+<a href="index.aspx">Home</a>
+</li>
+<li class="menu-item-has-children active">
+<a href="about.aspx">About</a>
+</li>
+<li class="menu-item-has-children active">
+<a href="campaign-list.aspx">Explore</a>
+</li>
+<li class="menu-item-has-children active">
+<a href="faq.aspx">FAQ</a>
+</li>
+<li class="menu-item-has-children active">
+<a href="contact.aspx">Contact</a>
+</li> <li class="menu-item-has-children active">
+<a href="#section2">Download</a>
+</li>
+<li class="menu-item-has-children active">
+<a href="login.aspx">Login</a>
+</li>
+</ul>
+</div>
+<div class="offcanvas_footer">
+<span>
+<a href="https://t.me/planetway_global" target="_blank">
+<i class="fa fa-telegram "></i> Join Telegram</a></span><br />
+<br />
+<span><a href="/cdn-cgi/l/email-protection#c7aea9a1a887b7aba6a9a2b3b0a6bee9aea8"><i class="fa fa-envelope-o"></i> <span class="__cf_email__" data-cfemail="f0999e969fb0809c919e9584879189de999f">[email&#160;protected]</span></a></span>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+
+<header class="header-area">
+<div class="container">
+<div class="row">
+<div class="col-lg-12">
+<div class="header-top d-flex justify-content-between align-items-center">
+<div class="header-info">
+<ul>
+<li><a href="/cdn-cgi/l/email-protection#96fff8f0f9d6e6faf7f8f3e2e1f7efb8fff9"><i class="flaticon-email"></i> <span class="__cf_email__" data-cfemail="b9d0d7dfd6f9c9d5d8d7dccdced8c097d0d6">[email&#160;protected]</span></a></li>
+<li>
+ <a href="https://t.me/planetway_global" target="_blank">
+<i class="fa fa-telegram "></i>Join Telegram</a></li>
+</ul>
+</div>
+<div class="social">
+<ul>
+<li><a href="https://www.facebook.com/Planetway-112254153865584" target="_blank"><i class="fa fa-facebook-square"></i></a></li>
+<li><a href="https://twitter.com/Planetwayin" target=_blank><i class="fa fa-twitter"></i></a></li>
+<li><a href="https://www.youtube.com/channel/UCMrdibmQe_aUHm6kdRvX8NQ/" target="_blank"><i class="fa fa-youtube"></i></a></li>
+<li><a href="https://www.linkedin.com/company/planetwayin/?viewAsMember=true" target="_blank"><i class="fa fa-linkedin"></i></a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="main-header">
+<div class="container">
+<div class="row">
+<div class="col-lg-12">
+<div class="main-header-item">
+<div class="main-header-menus  d-flex justify-content-between align-items-center">
+<div class="header-logo">
+<a href="index.aspx"><img src="assets/images/logo.png" alt="logo" style="width:125px"></a>
+</div>
+<div class="header-menu d-none d-lg-block">
+<ul>
+<li>
+<a href="index.aspx">Home</a>
+</li>
+<li>
+<a href="about.aspx">About</a>
+</li>
+<li>
+<a href="campaign-list.aspx">Explore </a>
+</li>
+<li>
+<a href="faq.aspx">FAQ </a>
+</li>
+<li><a href="contact.aspx">Contact</a></li> <li><a href="#section2">Download</a></li>
+</ul>
+</div>
+<style>
+html {
+  scroll-behavior: smooth;
+} 
+#section2 {
+  height: 600px; 
+}
+</style>
+<div class="header-info d-flex align-items-center ">
+<div>
+<i class="fa fa-sign-in" aria-hidden="true"></i>
+<a href="login.aspx"> <span>Login</span></a>
+</div>
+<div class="toggle-btn ml-30 canvas_open d-lg-none d-block">
+<i class="fa fa-bars"></i>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</header>
+
+<section class="page-title-area bg_cover" style="background-image: url('assets/images/page-title-bg.jpg');">
+<div class="container">
+<div class="row">
+<div class="col-lg-12">
+<div class="page-title-content">
+<h3 class="title">Campaign</h3>
+<nav aria-label="breadcrumb">
+ <ol class="breadcrumb">
+<li class="breadcrumb-item"><a href="index.aspx">Home</a></li>
+<li class="breadcrumb-item active" aria-current="page">Explore</li>
+</ol>
+</nav>
+</div>
+</div>
+</div>
+</div>
+</section>
+<div id="ContentPlaceHolder1_divmain">
+<section class="project-details-area pt-120 pb-190">
+<div class="container">
+<div class="row">
+<div class="col-lg-7">
+<div class="project-details-thumb">
+<img id="ContentPlaceHolder1_imgfile" class="cover" src="User/campaign_image/PW550109.jpg" style="width:600px;height:480px" />
+<div class="icon">
+<i class="fa fa-heart"></i>
+</div>
+</div>
+</div>
+<div class="col-lg-5">
+<div class="project-details-content">
+<div class="details-btn">
+<span id="ContentPlaceHolder1_spanCatg">Health/Hospital</span>
+<div class="flag">
+<p><span id="ContentPlaceHolder1_spanCountry">India</span></p>
+</div>
+</div>
+<h3 class="title"><span id="ContentPlaceHolder1_spanComment">Members in hospital </span></h3>
+<div class="project-details-item">
+<div class="item text-center">
+<h5 class="title"><span id="ContentPlaceHolder1_spanRaised">0.0000</span></h5>
+<span>Raised</span>
+</div>
+<div class="item text-center">
+<h5 class="title"><span id="ContentPlaceHolder1_spannoofDonors">0</span></h5>
+<span>Donors</span>
+</div>
+<div class="item text-center">
+<h5 class="title"><span id="ContentPlaceHolder1_spanDaysLeft">66</span></h5>
+<span>Days Left</span>
+</div>
+</div>
+<div class="projects-range">
+<div class="projects-range-content">
+<ul>
+<li>Raised:</li>
+<li><span id="ContentPlaceHolder1_spRaisedPerc">0</span>%</li>
+</ul>
+<div class="range"></div>
+</div>
+</div>
+<div class="projects-goal">
+<span>Goal: <span><span id="ContentPlaceHolder1_spanGoal">50.00</span> ETH</span></span>
+</div>
+<div class="project-btn mt-25">
+<a href="#" data-toggle="modal" data-target="#ModalReceive" class="main-btn">Donate Now</a>
+</div>
+<div class="project-share d-flex align-items-center">
+<span>Share this Project</span>
+<ul>
+<li><a href="Campaign.aspx#"><i class="fa fa-facebook-square"></i></a></li>
+<li><a href="Campaign.aspx#"><i class="fa fa-twitter"></i></a></li>
+<li><a href="Campaign.aspx#"><i class="fa fa-pinterest-p"></i></a></li>
+<li><a href="Campaign.aspx#"><i class="fa fa-instagram"></i></a></li>
+ </ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="project-details-content-area pb-110">
+<div class="container">
+<div class="row justify-content-center">
+<div class="col-lg-8">
+<div class="tab-btns">
+<ul class="nav nav-pills" id="pills-tab" role="tablist">
+<li class="nav-item" role="presentation">
+<a class="nav-link active" id="pills-home-tab" data-toggle="pill" href="#pills-home" role="tab" aria-controls="pills-home" aria-selected="true">Story</a>
+</li>
+<li class="nav-item" role="presentation">
+<a class="nav-link" id="pills-profile-tab" data-toggle="pill" href="#pills-profile" role="tab" aria-controls="pills-profile" aria-selected="false">FAQs</a>
+</li>
+<li class="nav-item" role="presentation">
+<a class="nav-link" id="pills-contact-tab" data-toggle="pill" href="#pills-contact" role="tab" aria-controls="pills-contact" aria-selected="false">Updates</a>
+</li>
+<li class="nav-item" role="presentation">
+<a class="nav-link" id="pills-4-tab" data-toggle="pill" href="#pills-4" role="tab" aria-controls="pills-4" aria-selected="false">Comments</a>
+</li>
+</ul>
+</div>
+<div class="tab-content" id="pills-tabContent">
+<div class="tab-pane fade show active" id="pills-home" role="tabpanel" aria-labelledby="pills-home-tab">
+<div class="project-details-content-top">
+<p>Please Describe your Fundraising details</p>
+<p>My family is very sad to lockdown into hospital...</p>
+<ul>
+<li><i class="flaticon-check"></i>Fundraiser get direct credit your ether donation in his/her wallet!</li>
+<li><i class="flaticon-check"></i>Kindly send ether by using donate now button!</li>
+<li><i class="flaticon-check"></i>We accept ethereum only, please dont send another token or coin!</li>
+<li><i class="flaticon-check"></i>Your donation is still very much appreciated!</li>
+<li><i class="flaticon-check"></i>Happy Fundraising!!</li>
+</ul>
+<div class="project-details-thumb">
+<img src="assets/images/project-details-thumb.jpg" alt="">
+</div>
+</div>
+<div class="project-details-item">
+<p>Please help with your valuable donation, and donate via ethereum only by using the Ether (ETH) receiving address, mansion at the top of the page or you can also see the address over donate now button*</p><br />
+<h3>Challenges and Solutions</h3>
+<p>In today Internet generation many platform provides crowdfunding platform but they charge entry fee. Very few people could start a business, publish a book, release a record, or broadcast their opinion without someone else’s financial backing. Unless you had a particularly wealthy and supportive relative, you’d have to try your luck at the bank or in countless soul-crushing meetings with investors. And even then, you’d lose large portions of equity or be crippled by high-interest rates. Thankfully, today there’s another way to raise fund via crowdfunding.. it is not easy to raise fund worldwide, Planetway platform has provide free campaign page.
+any body can create the campaign page and raise ethereum WORLDWIDE by share the page.<p />
+You can also create your own campaign page, using "Start Campaign" button , for any cause, after create account fill the campaign form and start sharing your campaign page link with friends and family, where donor can donate you via using "DONATE NOW" button. If your Campaign page seems like real and needed suppor then our community will share your campaign page with our donors community, So try to make your Page realstic.</p>
+<div class="item">
+<i class="flaticon-checkmark"></i>
+<h5 class="title">Please donate through Ether only!</h5>
+<p>We accept only ether, Once you donate, it's recorded over ethereum blockchain forever.</p>
+</div>
+<div class="item mt-45 mb-50">
+<i class="flaticon-checkmark"></i>
+<h5 class="title">0% Platform fee.</h5>
+<p>All donation is 100% belong to the fundraiser, we didnt charge any fee in collected cntibution.</p>
+</div>
+<div class="row">
+<div class="col-lg-6 col-md-6 col-sm-6">
+<div class="project-details-thumb">
+<img src="assets/images/project-details-1.jpg" alt="">
+</div>
+</div>
+<div class="col-lg-6 col-md-6 col-sm-6">
+<div class="project-details-thumb">
+<img src="assets/images/project-details-2.jpg" alt="">
+</div>
+</div>
+</div>
+<p class="text">Join Planetway Fundraiser Community & full fill your financial need for cause.</p>
+</div>
+</div>
+<div class="tab-pane fade" id="pills-profile" role="tabpanel" aria-labelledby="pills-profile-tab">
+<div class="faq-accordion mt-70">
+<div class="accrodion-grp" data-wow-duration="1500ms" data-wow-delay="0ms" data-grp-name="faq-accrodion">
+<div class="accrodion active ">
+<div class="accrodion-inner">
+<div class="accrodion-title">
+<h4><span>1.</span>How can I donate to this fundraiser campaign?</h4>
+</div>
+<div class="accrodion-content">
+<div class="inner">
+<p>Planetway provide hassle free contribution method! just click on DONATE NOW button, copy the ether address and send fund in ethereum
+as much as you can.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="accrodion  ">
+<div class="accrodion-inner">
+<div class="accrodion-title">
+<h4><span>2.</span>Can I also create my fundraiser campaign?</h4>
+</div>
+<div class="accrodion-content">
+ <div class="inner">
+<p>You can also create your own campaign with a single click of Create Campaign/Project.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="accrodion ">
+<div class="accrodion-inner">
+<div class="accrodion-title">
+<h4><span>3.</span> How to turn visitors into contributors</h4>
+</div>
+<div class="accrodion-content">
+<div class="inner">
+<p>Make Strong and real story about your campaign and share campaign link through social media.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="accrodion ">
+<div class="accrodion-inner">
+<div class="accrodion-title">
+<h4><span>4.</span> How can i find my campaign?</h4>
+</div>
+<div class="accrodion-content">
+<div class="inner">
+<p>Click on share icon at dashboard or navigate to sharable link on side menu.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="tab-pane fade" id="pills-contact" role="tabpanel" aria-labelledby="pills-contact-tab">
+<div class="project-details-updates">
+<div class="project-details-updates-top">
+<h3 class="title">This is the first update of our new project</h3>
+<div class="info-updates d-block d-sm-flex justify-content-between align-items-center">
+<div class="info">
+<img src="assets/images/info.jpg" alt="">
+<span>by <span>Sarah Albert<span> 4 Sep, 2020</span></span></span>
+</div>
+<div class="update">
+<span>#1 Update</span>
+</div>
+</div>
+</div>
+<div class="project-details-updates-content">
+<p>Planetway has launched by a community of fundraisers & an group of programmers, it's created for humanity not for making profits, its 100% Free platform.</p>
+<p class="text">Ether makes contributin faster, you can receive contribution from arround the world without any third party payment gateway.</p>
+<div class="project-updates-thumb mt-50">
+<img src="assets/images/project-updates-thumb-1.jpg" alt="">
+</div>
+ </div>
+</div>
+</div>
+<div class="tab-pane fade" id="pills-4" role="tabpanel" aria-labelledby="pills-4-tab">
+<div class="comment-one mt-50">
+<h3 class="comment-one__block-title">
+<span id="ContentPlaceHolder1_spnCount">0</span> Comments</h3>
+</div>
+<div class="comment-form">
+<h3 class="comment-one__block-title">Leave a Comment</h3>
+<form action="#" class="contact-one__form">
+<div class="row">
+<div class="col-lg-6">
+<div class="input-box" style="padding-bottom:10px;">
+<input name="ctl00$ContentPlaceHolder1$txtName" type="text" id="ContentPlaceHolder1_txtName" placeholder="name" class="form-control" />
+</div>
+</div>
+<div class="col-lg-6">
+<div class="input-box">
+<input name="ctl00$ContentPlaceHolder1$txtEmail" type="text" id="ContentPlaceHolder1_txtEmail" placeholder="Email" class="form-control" />
+&nbsp;
+</div>
+</div>
+<div class="col-lg-12">
+<div class="input-box" style="padding-bottom:10px;">
+<textarea name="ctl00$ContentPlaceHolder1$txtmsg" id="ContentPlaceHolder1_txtmsg" placeholder="Write Comment" class="form-control"></textarea>
+</div>
+</div>
+<div class="clearfix"></div>
+<div class="col-lg-12 text-left">
+<div class="input-box">
+<input type="submit" name="ctl00$ContentPlaceHolder1$btn_submit" value="Submit comment" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$ContentPlaceHolder1$btn_submit&quot;, &quot;&quot;, true, &quot;c&quot;, &quot;&quot;, false, false))" id="ContentPlaceHolder1_btn_submit" class="main-btn" />
+</div>
+</div>
+</div>
+</form>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<div class="modal fade" id="ModalReceive" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true" data-backdrop="static" data-keyboard="false">
+<div class="modal-dialog" role="document">
+<div class="modal-content">
+<div class="modal-header">
+<h3 class="modal-title" id="H1"><i class="fa fa-arrow-up"></i>Send Ethereum
+<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+<span aria-hidden="true" style="font-size: 40px; color:green; font-weight: 300;">&times;</span>
+ </button>
+</h3>
+</div>
+<div>
+<div class="col-xs-12">
+<h4 style="text-align: center;font-family:initial;font-size:18px;">Please copy my Ether(ETH) address and send me your valuable contribution.<br />
+<b>I Heartly thanks to you, for support this campaign.</b>
+</h4>
+<br />
+<div class="form-group">
+<div class="col-md-10">
+<div class="input-group">
+<input name="ctl00$ContentPlaceHolder1$txtReceivingAdcdress" type="text" value="0xbce0f5d1d698eea931e7f8d49c76282d10b66a43" id="ContentPlaceHolder1_txtReceivingAdcdress" class="form-control" placeholder="Wallet Address" />
+<span class="input-group-btn">
+<button type="button" class="btn btn-primary" id="address_copyButton" style="margin-top: -3px;">Copy</button>
+</span>
+</div>
+</div>
+</div>
+<div class="col-md-12 text-center">
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>
+
+        document.getElementById("address_copyButton").addEventListener("click", function () {
+            copyToClipboard(document.getElementById("ContentPlaceHolder1_txtReceivingAdcdress"));
+            $(this).text('Copied').css('font-weight', 'bold');
+            setInterval(changetext, 10000);
+
+        });
+        function changetext() {
+
+            $('#address_copyButton').text('Copy').css('font-weight', 'normal').css('color', 'white');
+        }
+
+        function copyToClipboard(elem) {
+            // create hidden text element, if it doesn't already exist
+            var targetId = "_hiddenCopyText_";
+            var isInput = elem.tagName === "INPUT" || elem.tagName === "TEXTAREA";
+            var origSelectionStart, origSelectionEnd;
+            if (isInput) {
+                // can just use the original source element for the selection and copy
+                target = elem;
+                origSelectionStart = elem.selectionStart;
+                origSelectionEnd = elem.selectionEnd;
+            } else {
+                // must use a temporary form element for the selection and copy
+                target = document.getElementById(targetId);
+                if (!target) {
+                    var target = document.createElement("textarea");
+                    target.style.position = "absolute";
+                    target.style.left = "-9999px";
+                    target.style.top = "0";
+                    target.id = targetId;
+                    document.body.appendChild(target);
+                }
+                target.textContent = elem.textContent;
+            }
+            // select the content
+            var currentFocus = document.activeElement;
+            target.focus();
+            target.setSelectionRange(0, target.value.length);
+
+            // copy the selection
+            var succeed;
+            try {
+                succeed = document.execCommand("copy");
+            } catch (e) {
+                succeed = false;
+            }
+            // restore original focus
+            if (currentFocus && typeof currentFocus.focus === "function") {
+                currentFocus.focus();
+            }
+
+            if (isInput) {
+                // restore prior selection
+                elem.setSelectionRange(origSelectionStart, origSelectionEnd);
+            } else {
+                // clear temporary content
+                target.textContent = "";
+            }
+            return succeed;
+        }
+    </script>
+
+<footer class="footer-area bg_cover" style="background-image: url('assets/images/footer-bg.jpg');">
+<div class="container">
+<div class="row">
+<div class="col-lg-4 col-md-6 col-sm-8">
+<div class="footer-about mt-30">
+<a href="index.aspx"><img src="assets/images/logo.png" alt="" style="width:150px"></a>
+<p>Planetway is an open fundraising platform for all fundraiser, Raise fund for any cause Worldwide.</p>
+<ul>
+<li><a href="https://www.facebook.com/Planetway-112254153865584" target="_blank"><i class="fa fa-facebook-square"></i></a></li>
+<li><a href="https://twitter.com/Planetwayin" target="_blank"><i class="fa fa-twitter"></i></a></li>
+<li><a href="https://www.youtube.com/channel/UCMrdibmQe_aUHm6kdRvX8NQ/" target="_blank"><i class="fa fa-youtube"></i></a></li>
+<li><a href="https://www.linkedin.com/company/planetwayin/?viewAsMember=true" target="_blank"><i class="fa fa-linkedin"></i></a></li>
+</ul>
+</div>
+</div>
+<div class="col-lg-2 col-md-6 col-sm-6">
+<div class="footer-list mt-30">
+<div class="footer-title">
+<h4 class="title">Community</h4>
+<ul>
+<li><a href="about.aspx">About Community</a></li>
+<li><a href="how-it-work.aspx">How It Works</a></li>
+<li><a href="contact.aspx">Contact</a></li>
+<li><a href="bcomedonee.aspx" target="_blank">Project Form</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="col-lg-2 col-md-6 col-sm-6">
+<div class="footer-list mt-30">
+<div class="footer-title">
+<h4 class="title">Fundraising</h4>
+<ul>
+<li><a href="campaign-list.aspx">Education</a></li>
+<li><a href="campaign-list.aspx">Health/Hospital</a></li>
+<li><a href="campaign-list.aspx">Film & Video</a></li>
+<li><a href="campaign-list.aspx">Technology</a></li>
+<li><a href="campaign-list.aspx">Charity</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="col-lg-4 col-md-6 col-sm-8">
+<div class="footer-newsletter mt-30">
+<div class="footer-title">
+<h4 class="title">Newsletter</h4>
+</div>
+<form action="#">
+<div class="input-box">
+<input type="text" placeholder="Email Address">
+<button><i class="fa fa-envelope"></i></button>
+</div>
+</form>
+<p>Sign up for our latest news & articles. We won’t give you spam mails.</p>
+</div>
+</div>
+</div>
+<div class="row">
+<div class="col-lg-12">
+<div class="footer-copyright text-center">
+<p>© Copyright 2020 by planetway.io &nbsp;<span style="color:#0fea0f">connected&nbsp;&nbsp;&nbsp;<i class="fa fa-signal" aria-hidden="true"></i></span></p>
+</div>
+</div>
+</div>
+</div>
+<div class="footer-shape">
+ <img src="assets/images/footer-shape.png" alt="">
+</div>
+</footer>
+
+
+<div class="go-top-area">
+<div class="go-top-wrap">
+<div class="go-top-btn-wrap">
+<div class="go-top go-top-btn">
+<i class="fa fa-angle-double-up"></i>
+<i class="fa fa-angle-double-up"></i>
+</div>
+</div>
+</div>
+</div>
+
+
+<script src="assets/js/vendor/modernizr-3.6.0.min.js"></script>
+<script src="assets/js/vendor/jquery-3.5.1.min.js"></script>
+
+<script src="assets/js/bootstrap.min.js"></script>
+<script src="assets/js/popper.min.js"></script>
+
+<script src="assets/js/ajax-contact.js"></script>
+
+<script src="assets/js/odometer.min.js"></script>
+<script src="assets/js/jquery.appear.min.js"></script>
+
+<script src="assets/js/jquery.magnific-popup.min.js"></script>
+
+<script src="assets/js/slick.min.js"></script>
+
+<script src="assets/js/main.js"></script>
+</div>
+</form>
+<script type="text/javascript">(function(){window['__CF$cv$params']={r:'6edec9235a33775b',m:'FKAcAN6rdrBjqVQ1hbNHwQTrf.qa7Abxq6E_TqyY7Es-1647615079-0-AYsGDBTB7NLKX68B4nLQsHjfLJ1BNb095RlGWQbMsqQw0JCA2BeKA6VAD61281pALgwr4ErQrqDF3VaT7IYVc0gwAqcepJCvfWVdKgjKH07C79gcSbmi46z1/CpUHZNi6Sx25ZulEtsj4dW4JC4eLHY=',s:[0x024474f620,0x3c817a274e],u:'/cdn-cgi/challenge-platform/h/b'}})();</script></body>
+</html>
